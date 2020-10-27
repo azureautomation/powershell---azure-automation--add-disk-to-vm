@@ -1,7 +1,7 @@
 {
     "Author": "DexterPOSH",
     "ContentSize": 5006,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-+-azure-automation--add-disk-to-vm/master/Add-DataDisktoVM.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell---azure-automation--add-disk-to-vm/master/Add-DataDisktoVM.ps1",
     "DownloadCount": 1107,
     "Id": "PowerShell-Azure-0d0f80fc",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "The Azure Automation Workflow will add a new Data disk to an Azure VM and then use PowerShell Remoting and Storage cmdlets to Initialize the disk , Create a Partition and Format it seamlessly.",
     "Title": "PowerShell + Azure Automation : Add Disk to VM",
     "UpdatedDate": "2015-4-1T00:00:00",
-    "Url": "https://github.com/azureautomation/powershell-+-azure-automation--add-disk-to-vm",
+    "Url": "https://github.com/azureautomation/powershell---azure-automation--add-disk-to-vm",
     "UserTags": "Powershell, PowerShell Workflow, Azure Automation"
 }
